@@ -33,6 +33,8 @@ public class Main {
                     mas[i+1] = buf;
                 }
             }
+
+
             System.out.println(Arrays.toString(mas));
         }
     }
